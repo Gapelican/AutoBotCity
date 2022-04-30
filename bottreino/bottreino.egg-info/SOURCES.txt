@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+bottreino/__init__.py
+bottreino/__main__.py
+bottreino/bot.py
+bottreino.egg-info/PKG-INFO
+bottreino.egg-info/SOURCES.txt
+bottreino.egg-info/dependency_links.txt
+bottreino.egg-info/requires.txt
+bottreino.egg-info/top_level.txt
+bottreino/resources/start.png
